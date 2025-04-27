@@ -1,7 +1,8 @@
 # Morse-Code-Translator
 This is my Morse Code Translator made me During a App Develoment Bootcamp in my college
-<Br>Author - Jha Abhishek Brijmohan</Br>
-<Br>Members - No Members</Br>
+<Br>Author : Jha Abhishek Brijmohan</Br>
+<Br>Member : No Members</Br>
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
